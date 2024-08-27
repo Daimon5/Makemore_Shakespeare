@@ -35,7 +35,7 @@ To run the notebook, you will need the following dependencies:
 
 ## References
 
-- [Andrej Karpathy's YouTube Series](https://www.youtube.com/watch?v=Py4xvZx-A1E)
+- [Andrej Karpathy's YouTube Series](https://www.youtube.com/@AndrejKarpathy)
 - [Original Char-RNN Paper](https://arxiv.org/abs/1506.02078)
 - [PyTorch Documentation](https://pytorch.org/docs/)
 
